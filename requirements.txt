@@ -2,3 +2,6 @@ streamlit
 pandas
 pyjwt
 geopy
+fpdf
+openpyxl
+mysql-connector-python
